@@ -1,0 +1,2 @@
+Hazel 5.5
+SHA-256: 32febfb6fd86fd2b413f562d2bd2ccb140bca4f84c9d944c5da85807a2528cbb
