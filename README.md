@@ -4,11 +4,19 @@
 
 ## Download the latest version
 
-**Hazel 6.2** — [Hazel-6.2.apk](https://raw.githubusercontent.com/charlesjackson5478-code/hazel-releases/main/v6.2/Hazel-6.2.apk)
+**Hazel 6.5** — [Hazel-6.5.apk](https://raw.githubusercontent.com/charlesjackson5478-code/hazel-releases/main/v6.5/Hazel-6.5.apk)
 
 Open the link on your Android phone, then install. Hazel also tells you inside the app when a newer version is ready.
 
-## What's new in 6.2
+## What's new in 6.5
+
+- 🔔 **Messages arrive while Hazel is closed** — fetched the instant the phone is woken, and kept safe
+- 📞 **Calls ring a sleeping phone** — full-screen call with Answer and Decline
+- ✅ **Delivery check** — Settings → Notifications shows anything holding Hazel back
+- 🌍 **Earth card** — tap a dot, Ask to chat right there
+- 🎮 **Full-screen games**
+
+## In 6.2
 
 - 🗑️ **Leave and delete are instant** — the chat goes at once and nothing else waits behind it
 - 🌍 **Earth re-asks** — remove a chat and you can ask the same person again straight away
@@ -38,4 +46,4 @@ Every update is checked against a SHA-256 fingerprint before it installs, so onl
 
 Hazel is made by Charles Jackson and Prince Goldsmith.
 
-Older versions: [6.1](v6.1) · [6.0](v6.0) · [5.6](v5.6) · [5.5](v5.5) · [5.4](v5.4)
+Older versions: [6.2](v6.2) · [6.1](v6.1) · [6.0](v6.0) · [5.6](v5.6) · [5.5](v5.5) · [5.4](v5.4)
