@@ -4,11 +4,16 @@
 
 ## Download the latest version
 
-**Hazel 6.8** — [Hazel-6.8.apk](https://raw.githubusercontent.com/charlesjackson5478-code/hazel-releases/main/v6.8/Hazel-6.8.apk)
+**Hazel 6.9** — [Hazel-6.9.apk](https://raw.githubusercontent.com/charlesjackson5478-code/hazel-releases/main/v6.9/Hazel-6.9.apk)
 
 Open the link on your Android phone, then install. Hazel also tells you inside the app when a newer version is ready.
 
-## What's new in 6.8
+## What's new in 6.9
+
+- 🌍 **Earth requests reach closed phones** — sealed so only they can open it, and it wakes their phone
+- 🔔 **Tap a request notification** to open that request straight away
+
+## In 6.8
 
 - 📡 **Radar sees everyone around you** — not just the first one
 - 🔐 **Secret code** — type it in the Chats search bar to open hidden locked chats
@@ -66,4 +71,4 @@ Every update is checked against a SHA-256 fingerprint before it installs, so onl
 
 Hazel is made by Charles Jackson and Prince Goldsmith.
 
-Older versions: [6.7](v6.7) · [6.6](v6.6) · [6.5](v6.5) · [6.2](v6.2) · [6.1](v6.1) · [6.0](v6.0) · [5.6](v5.6) · [5.5](v5.5) · [5.4](v5.4)
+Older versions: [6.8](v6.8) · [6.7](v6.7) · [6.6](v6.6) · [6.5](v6.5) · [6.2](v6.2) · [6.1](v6.1) · [6.0](v6.0) · [5.6](v5.6) · [5.5](v5.5) · [5.4](v5.4)
